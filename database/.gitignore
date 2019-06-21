@@ -1,2 +1,8 @@
 *.sqlite
 *.sqlite-journal
+ mariadatabase/my_database/categories.frm
+        mariadatabase/my_database/categories.ibd
+        mariadatabase/my_database/tasks.frm
+        mariadatabase/my_database/tasks.ibd
+        pipe-dream-history.json
+
